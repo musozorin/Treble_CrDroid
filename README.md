@@ -2,6 +2,8 @@
 
 Unofficial **crDroid 10.13** Generic System Image (GSI) for Treble-enabled devices.
 
+# UNPACK USING 7z-zstd
+
 ## ✨ Project Highlights
 * **Base:** Android 14 (crDroid 10.13)
 * **Status:** Unofficial
