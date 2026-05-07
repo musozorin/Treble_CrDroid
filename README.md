@@ -13,7 +13,3 @@ Unofficial **crDroid 10.13** Generic System Image (GSI) for Treble-enabled devic
 * **crDroid Team** - For the ROM source and features.
 * **phhusson** - For the foundational Treble/GSI work.
 ---
-
-## ⚖️ License
-This project is licensed under the **GNU General Public License v3.0**. 
-See the `LICENSE` file for the full text.
